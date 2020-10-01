@@ -24,11 +24,13 @@ Use this notebook to consolidate the daily charts data into monthly and a single
 
 ## 3. set_credentials.ipynb
 
-Install the `keyring` package
+Install the [`keyring`](https://keyring.readthedocs.io/en/latest/) package
 ````
 pip install keyring 
 ````
-Run the notebook. Keyring will ask for your Spotify Client ID and Secret Code.
+The Python keyring library provides an easy way to access the system keyring service from python. It can be used in any application that needs safe password storage. 
+
+Run the notebook. Keyring will ask for your Spotify Client ID and Secret Code and safely hold it in your device.
 
 For the notebooks below, please also install the `spotipy` python module https://spotipy.readthedocs.io/en/2.12.0/
 ````
