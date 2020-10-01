@@ -32,7 +32,7 @@ The Python keyring library provides an easy way to access the system keyring ser
 
 Run the notebook. Keyring will ask for your Spotify Client ID and Secret Code and safely hold it in your device.
 
-For the notebooks below, please also install the `spotipy` python module https://spotipy.readthedocs.io/en/2.12.0/
+For the notebooks below, please also install the [`spotipy`](https://spotipy.readthedocs.io/en/2.12.0/) python module 
 ````
 pip install spotipy
 ````
