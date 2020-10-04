@@ -2,7 +2,7 @@
  Obtain data from the Spotify worldwide ranking chart and tracks and user playlists data using Spotify webAPI
 
 ## 0. Setting up your spotify credentials
-Follow the instructions at the [Spotify for Developers Quick Start page](https://developer.spotify.com/documentation/web-api/quick-start/) and follow up to the *Set Up Your Account* section
+Follow the instructions at the [Spotify for Developers Quick Start page](https://developer.spotify.com/documentation/web-api/quick-start/) and follow up to the *Set Up Your Account* section. Alternatively, you may follow this [tutorial](https://developer.spotify.com/documentation/general/guides/authorization-guide/)
 
 Make a new app and copy the Client ID and Secret Code.
 
